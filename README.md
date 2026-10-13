@@ -2,6 +2,8 @@
 
 **[Read the Fairgame Whitepaper (PDF)](Fairgame_Whitepaper_v1.0.pdf)**
 
+**[Read the Fairgame Yellow Paper, the formal specification (PDF)](Fairgame_Yellow_Paper_v1.0.pdf)**
+
 Fairgame: The Decentralized Autonomous Propfirm. Version 1.0, October 2026, by Eduard Driessen.
 
 Fairgame is a decentralized autonomous proprietary-trading firm on Sonic with verifiable on-chain rules, reserves and payouts, farm-proof evaluation pricing and a self-balancing controller.
